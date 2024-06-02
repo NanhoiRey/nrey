@@ -2,11 +2,8 @@ import './App.css';
 import React from 'react';
 import {BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Navbar from './Pages/Home/Navbar';
-import HeroSection from './Pages/Home/HeroSection';
-import Contact from './Pages/Home/ContactMe';
-import Home from "./Pages/Home/Homescreen";
-import AboutMe from './Pages/Home/AboutMe';
-import MyPortfolio from './Pages/Home/Portifolio';
+import Home from "./Pages/Home/Homescreen/index";
+
 
 function App() {
   return (
@@ -15,6 +12,7 @@ function App() {
       <Router>
         <div>
           <Navbar/>
+          <Home/>
 
           <Routes>
             <Route path="/" element={<Home/>}></Route>

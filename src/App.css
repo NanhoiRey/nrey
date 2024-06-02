@@ -87,7 +87,7 @@ body{
 .btn-primary img{
   width: 20px;
 }
-.btn-primary2{
+.btn-primary2, .btn-studies{
   color: white;
   display: flex;
   align-items: center;
@@ -97,7 +97,7 @@ body{
   background-color: rgb(18, 125, 105);
   border-radius: 2px;
 }
-.btn-primary2:hover{
+.btn-primary2:hover, .btn-studies:hover{
   background-color: rgb(30, 219, 184);
   color: #000000;
 

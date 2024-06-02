@@ -1,52 +1,23 @@
 {
-    "skills" : [
-        {
-            "id":1,
-            "src":"img/placeholder-image-1.png",
-            "title":"Titulo!",
-            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing"
-        },
-        {
-            "id":2,
-            "src":"./img/feather-pen-1.png",
-            "title":"Titulo!",
-            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing"
-        },
-        {
-            "id":3,
-            "src":"./product-chain-1.png",
-            "title":"Titulo!",
-            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing"
-           
-        },
-        {
-            "id":4,
-            "src":"./img/tag-1.png",
-            "title":"Titulo!",
-            "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing"
-           
-        }
-    ],
-
     "portfolio" : [
 
         {
             "id":1,
-            "src":"img/rocco.jpg",
+            "src":"./img/rocco.jpg",
             "title":"Rocco Music",
             "desc": "Html5, CSS, Javascript, Formularios y Bootstraps. Diseño y progamación.",
             "link" : "https://musicrocco.com/"
         },
         {
             "id":2,
-            "src":"img/magna.jpg",
+            "src":"./img/magna.jpg",
             "title":"Magna Producciones",
             "desc": "Html5, CSS y Javascript. Diseño integral del sitio y graficas.",
             "link" : "https://magnaproducciones.com/"
         },
         {
             "id":3,
-            "src":"img/tach.jpg",
+            "src":"./img/tach.jpg",
             "title":"Tachangou",
             "desc": "Html5, CSS y Javascript. Diseño integral del sitio y todo el material grafico utilizado.",
             "link" : "Ver"
@@ -58,21 +29,21 @@
 
         {
             "id":1,
-            "src":"img/cetae.png",
+            "src": "../img/cetae.png",
             "title":"Centro de Estudios Técnicos",
             "desc": "Front-End",
             "link" : "https://drive.google.com/file/d/1LL92hgN1ahtbS4uqKSnQtroQZfABs2qv/view?usp=drive_link"
         },
         {
             "id":2,
-            "src":"img/coder.png",
+            "src":"../img/coder.png",
             "title":"Coder House ",
             "desc": "Python Básico y Avanzado",
             "link" : "https://drive.google.com/file/d/1lJCUJ5s5aLo9aWgCOpnQJ61Ej6G6FFEw/view"
         },
         {
             "id":3,
-            "src":"img/arg.png",
+            "src":"../img/arg.png",
             "title":"Argentina Programa 4.0",
             "desc": "Junior Full Stack Developer",
             "link" : "https://drive.google.com/file/d/1bdM3CBTXDs_ccu1EA8QgW1IQ7mK6knpU/view"

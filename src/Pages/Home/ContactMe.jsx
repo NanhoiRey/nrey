@@ -52,9 +52,9 @@ const Contact = () => {
                 <div className='c'>
 
                     <form ref= {formRef} onSubmit={handleSubmit}>
-                        <input type="text" placeholder="Name" name="user_name" />
-                        <input type="text" placeholder="Email" name="user_email" />
-                        <textarea rows="5" placeholder="Message" name='message'></textarea>
+                        <input type="text" placeholder="Name" name="user_name" required />
+                        <input type="text" placeholder="Email" name="user_email" required />
+                        <textarea rows="5" placeholder="Message" name='message' required></textarea>
                         <button className='c-button'>Submit</button>
                     </form>
 
