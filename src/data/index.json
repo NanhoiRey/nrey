@@ -29,21 +29,21 @@
 
         {
             "id":1,
-            "src": "../img/cetae.png",
+            "src": "./img/cetae.png",
             "title":"Centro de Estudios Técnicos",
             "desc": "Front-End",
             "link" : "https://drive.google.com/file/d/1LL92hgN1ahtbS4uqKSnQtroQZfABs2qv/view?usp=drive_link"
         },
         {
             "id":2,
-            "src":"../img/coder.png",
+            "src":"./img/coder.png",
             "title":"Coder House ",
             "desc": "Python Básico y Avanzado",
             "link" : "https://drive.google.com/file/d/1lJCUJ5s5aLo9aWgCOpnQJ61Ej6G6FFEw/view"
         },
         {
             "id":3,
-            "src":"../img/arg.png",
+            "src":"./img/arg.png",
             "title":"Argentina Programa 4.0",
             "desc": "Junior Full Stack Developer",
             "link" : "https://drive.google.com/file/d/1bdM3CBTXDs_ccu1EA8QgW1IQ7mK6knpU/view"
