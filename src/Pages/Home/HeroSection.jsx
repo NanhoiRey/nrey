@@ -27,9 +27,9 @@ export default function HeroSection() {
                 </p>
             </div>
             <div className="hero-redes">
-                <button className='btn btn-primary'><img src={Email} alt="" />nanhoirey94@gmail.com</button>
-                <button className='btn btn-primary'><img src={Git} alt="" />GitHub</button>
-                <button className='btn btn-primary'><img src={Linkedin} alt="" />LinkedIn</button>
+                <a href="mailto:nanhoirey94@gmail.com" target="blanck"><button className='btn btn-primary'><img src={Email} alt="" />nanhoirey94@gmail.com</button></a>
+                <a href="https://github.com/NanhoiRey" target="blanck"><button className='btn btn-primary'><img src={Git} alt="" />GitHub</button></a>
+                <a href="https://linkedin.com/in/nanorey" target="blanck"><button className='btn btn-primary'><img src={Linkedin} alt="" />LinkedIn</button></a>
             </div>
         </div>
 

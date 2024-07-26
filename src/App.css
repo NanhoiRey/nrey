@@ -613,9 +613,9 @@ textarea{
 
 }
 .c-button{
-  width: 200px;
-  margin: 20px;
+  width: 30%;
   border: none;
+  margin-top: 20px;
   padding: 15px;
   background-color:var(--green);
   color: white;
@@ -793,7 +793,8 @@ form done{
     flex-wrap: wrap;
   }
   .hero-redes .btn{
-    padding: 15px;
+  
+    padding: 8px 10px;
 
   }
   
@@ -855,10 +856,7 @@ form done{
 .btn-primary2{
   display: none;
 }
-.c-button{
-  width: 100%;
-  margin: 30px 1px;
-}
+
 
 @media screen and (max-width: 1200px) {
 
@@ -941,6 +939,10 @@ form done{
     font-size: 1.5rem;
     line-height: 10px;
     
+  }
+  .c-button{
+    width: 100%;
+    margin: 30px 1px;
   }
 
 
