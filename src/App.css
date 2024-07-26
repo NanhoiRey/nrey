@@ -164,6 +164,11 @@ body{
   line-height:24px;
   cursor: pointer;
  }
+ .navbar-content:hover{
+  color: var(--green);
+  transition: ease-in-out 0.3s;
+
+ }
  .navbar-active-content{
   color: var(--green);
  }
@@ -245,7 +250,7 @@ h2{
   
 }
 .hero-section-img img{
-  width: 70%;
+  width: 25vw;
   height: 100%;
   border-radius: 50%;
   
@@ -263,12 +268,13 @@ h2{
 }
 .hero-section-content{
 
-
+  width: 90%;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
   gap: 12px; 
+  
   
 }
 
@@ -287,8 +293,9 @@ h2{
   color: var(--green);
 }
 .hero-redes{
-  display: flex;
   gap: 10px;
+  display: flex;
+  justify-content: center;
 }
 
 /* My Portifolio Starts */
@@ -322,6 +329,7 @@ h2{
   align-items: center;
   justify-content: center;
   gap: 30px;
+  width: 100%;
 
 }
 .sub-title{
@@ -342,6 +350,7 @@ h2{
 
 }
 .portfolio-section-card{
+  width: 100%; 
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -563,7 +572,7 @@ form{
   
 }
 input{
-  width: 46.7%;
+  width: 50vw;
   height: 30px;
   border: none;
   font-size: 14px;
@@ -678,7 +687,8 @@ form done{
 
   }
   .hero-section-img{
-    max-width: 260px;
+    max-width:none;
+    width: 55vw;
     display: flex;
     justify-content:flex-end;
     align-items:flex-end;
@@ -712,6 +722,7 @@ form done{
   .footer-content-container {
     display: flex;
     flex-direction: column;
+
   }
   .skills-section,
   .portfolio-container,
@@ -774,6 +785,19 @@ form done{
     width: 100%;
   }
 
+  .hero-redes{
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    flex-wrap: wrap;
+  }
+  .hero-redes .btn{
+    padding: 15px;
+
+  }
+  
+
 
 
   .testimonial-section-card {
@@ -831,6 +855,10 @@ form done{
 .btn-primary2{
   display: none;
 }
+.c-button{
+  width: 100%;
+  margin: 30px 1px;
+}
 
 @media screen and (max-width: 1200px) {
 
@@ -870,10 +898,10 @@ form done{
     
     backdrop-filter: blur(60px);
 
-    top: -40rem;
+    top: -150rem;
     left: 0;
     width: 100%;
-    height: 100vw;
+    height: 100vh;
     transition: all ease-in-out 0.4s;
   }
   .navbar-items ul {
@@ -910,10 +938,12 @@ form done{
     transform: rotate(-45deg) translate(0.45rem, -0.1875rem);
   }
   .navbar-content{
-    font-size: 4.5rem;
-    line-height: 50px;
+    font-size: 1.5rem;
+    line-height: 10px;
     
   }
+
+
 }
 
 /* Responsive Screens Ends*/

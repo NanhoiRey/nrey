@@ -9,7 +9,7 @@ export default function MyPortfolio () {
             <div className="portfolio-container-box">
                 <div className="portfolio-container">
                     <p className="sub-title">
-                        Últimos proyectos .
+                        Últimos proyectos
                     </p>
                     <h2 className="section-heading">
                         Mi Portfolio

@@ -22,6 +22,8 @@ export default function HeroSection() {
 
                 <p className="hero-section-desc">
                     Soy Programador Web y busco poder ofrecer soluciones creativas en el mundo de la informática
+                    
+                    
                 </p>
             </div>
             <div className="hero-redes">
