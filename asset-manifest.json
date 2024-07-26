@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/nrey/static/css/main.a32455e4.css",
-    "main.js": "/nrey/static/js/main.652fe306.js",
+    "main.js": "/nrey/static/js/main.2956a0ec.js",
     "static/media/me.png": "/nrey/static/media/me.7a3713e5bd430834ce69.png",
     "static/media/gmail.png": "/nrey/static/media/gmail.8ceb6ccbfdf880df8f83.png",
     "static/media/fondo.svg": "/nrey/static/media/fondo.8361fafb675cfa6da1a1.svg",
     "index.html": "/nrey/index.html",
     "main.a32455e4.css.map": "/nrey/static/css/main.a32455e4.css.map",
-    "main.652fe306.js.map": "/nrey/static/js/main.652fe306.js.map"
+    "main.2956a0ec.js.map": "/nrey/static/js/main.2956a0ec.js.map"
   },
   "entrypoints": [
     "static/css/main.a32455e4.css",
-    "static/js/main.652fe306.js"
+    "static/js/main.2956a0ec.js"
   ]
 }
