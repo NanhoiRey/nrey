@@ -12,15 +12,15 @@
             "id":2,
             "src":"./img/magna.jpg",
             "title":"Magna Producciones",
-            "desc": "Html5, CSS y Javascript. Diseño integral del sitio y graficas.",
+            "desc": "Html5, CSS y Javascript. Diseño integral del sitio y gráficas.",
             "link" : "https://magnaproducciones.com/"
         },
         {
             "id":3,
             "src":"./img/tach.jpg",
             "title":"Tachangou",
-            "desc": "Html5, CSS y Javascript. Diseño integral del sitio y todo el material grafico utilizado.",
-            "link" : "Ver"
+            "desc": "Html5, CSS y Javascript. Diseño integral del sitio y todo el material gráfico utilizado.",
+            "link" : "https://magnaproducciones.com/2/"
            
         }
     ],
@@ -29,10 +29,11 @@
 
         {
             "id":1,
-            "src": "./img/cetae.png",
-            "title":"Centro de Estudios Técnicos",
-            "desc": "Front-End",
-            "link" : "https://drive.google.com/file/d/1LL92hgN1ahtbS4uqKSnQtroQZfABs2qv/view?usp=drive_link"
+            "src":"./img/arg.png",
+            "title":"Argentina Programa 4.0",
+            "desc": "Junior Full Stack Developer",
+            "link" : "https://drive.google.com/file/d/1bdM3CBTXDs_ccu1EA8QgW1IQ7mK6knpU/view"
+           
         },
         {
             "id":2,
@@ -42,12 +43,13 @@
             "link" : "https://drive.google.com/file/d/1lJCUJ5s5aLo9aWgCOpnQJ61Ej6G6FFEw/view"
         },
         {
+            
             "id":3,
-            "src":"./img/arg.png",
-            "title":"Argentina Programa 4.0",
-            "desc": "Junior Full Stack Developer",
-            "link" : "https://drive.google.com/file/d/1bdM3CBTXDs_ccu1EA8QgW1IQ7mK6knpU/view"
-           
+            "src": "./img/cetae.png",
+            "title":"Centro de Estudios Técnicos",
+            "desc": "Front-End",
+            "link" : "https://drive.google.com/file/d/1LL92hgN1ahtbS4uqKSnQtroQZfABs2qv/view?usp=drive_link"
+
         }
 
     ]

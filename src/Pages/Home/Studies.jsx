@@ -17,7 +17,7 @@ export default function Studies (){
                          {item.desc}
                     </p>
 
-                    <button className="btn-studies"><a href={item.link} target="blanck">Certificado</a></button>
+                    <button className="btn-studies"><a href={item.link} target="_blanck">Certificado</a></button>
 
                 </div>
             )

@@ -34,7 +34,7 @@ export default function MyPortfolio () {
                             </div>
                             <p className="text-sm portfolio-link">
                                 <button className="portfolio-button">
-                                    <a href={item.link} target="blanck"> 
+                                    <a href={item.link} target="_blanck"> 
                                         Acceder
                                         <FaArrowAltCircleUp  className="flecha"/>
                                     </a>

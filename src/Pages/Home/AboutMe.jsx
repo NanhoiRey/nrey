@@ -10,7 +10,7 @@ export default  function AboutMe(){
                 <div className="about-section-content">         
 
                     <div className="desc-left">
-                        <p className="p-about">Egresado del Instituto de Jazz EMU en Argentina y, tras años de ejercer como profesor y sesionista migré para el mundo de la Programación. <br />
+                        <p className="p-about">Egresado del Instituto de Jazz EMU en Argentina y, tras años de ejercer como profesor y sesionista, migré para el mundo de la Programación. <br />
                         Desde entonces disfruto creando experiencias web para los usuarios y estudiando nuevos lenguajes de programación. </p>
                     </div>
 
